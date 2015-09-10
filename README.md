@@ -1,4 +1,4 @@
 # arcadian-barnacle
-data for python novice SWC lesson
+data for python novice SWC lessons
 
-Hello ANU researchers. Write me a message and send a pull request....
+- now with added python scripts
